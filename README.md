@@ -36,3 +36,39 @@ Section 6 – Class Relationships: Composition, Aggregation, Association
 Section 7 – Magic Methods: Magic (Dunder) Methods, super(), __str__(), __repr__(), __len__()
 
 Section 8 – Bonus Topics: Dataclasses, Singleton Pattern
+
+03_Exception_Handling.ipynb
+
+Covers Python exception handling concepts to write robust and error-free programs, including built-in exceptions and custom error handling.
+
+Section 1 – Exception Handling Basics: try, except, else, finally
+
+Section 2 – Raising Exceptions: raise
+
+Section 3 – Assertions: assert
+
+Section 4 – Custom Exceptions: Creating and using user-defined exception classes
+
+Section 5 – Built-in Exceptions: ValueError, TypeError, IndexError, KeyError, AttributeError, NameError, FileNotFoundError, ZeroDivisionError, ImportError, ModuleNotFoundError
+
+04_Logging.ipynb
+
+Covers Python logging for debugging, monitoring, and maintaining applications using the built-in logging module.
+
+Section 1 – Introduction to Logging: What is Logging?
+
+Section 2 – Why Logging?: Benefits and use cases
+
+Section 3 – print() vs logging: Key differences and when to use each
+
+Section 4 – Log Levels: DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+Section 5 – Log Formatters: Customizing log message formats
+
+Section 6 – File Handlers: Writing logs to files
+
+Section 7 – Console Handlers: Displaying logs in the console
+
+Section 8 – Rotating Logs: Managing log files with automatic rotation
+
+Section 9 – Logging Best Practices: Recommended practices for effective logging
