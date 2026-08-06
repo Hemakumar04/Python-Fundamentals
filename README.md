@@ -72,3 +72,27 @@ Section 7 – Console Handlers: Displaying logs in the console
 Section 8 – Rotating Logs: Managing log files with automatic rotation
 
 Section 9 – Logging Best Practices: Recommended practices for effective logging
+
+05_File_Handling
+
+Covers Python File Handling concepts, from working with text files to managing directories and structured data.
+
+Section 1 – Text Files: Reading Files, Writing Files, Appending Files
+
+Section 2 – Structured Files: CSV Files, JSON Files, Pickle Serialization
+
+Section 3 – File Management: Context Managers (`with`), File Validation, Exception Handling
+
+Section 4 – Directory Operations: `pathlib`, `os`, `shutil`, Creating, Copying, Moving, and Deleting Files & Directories
+
+06_SQL
+
+Covers SQL fundamentals and advanced concepts, from database design to complex queries.
+
+Section 1 – Database Design: Database, Tables, Primary Key, Foreign Key, Constraints
+
+Section 2 – SQL Basics: CREATE, INSERT, SELECT, UPDATE, DELETE, WHERE, ORDER BY, LIMIT
+
+Section 3 – Data Retrieval: Aggregate Functions, GROUP BY, HAVING, Subqueries
+
+Section 4 – Advanced SQL: Joins (INNER, LEFT, RIGHT), Views, Indexes, Transactions, Common SQL Operations
